@@ -10,24 +10,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unamatasanatarai&theme=tokyonight&hide_border=true&background=0D1117" height="170"/>
 </p>
 
-
----
-
-
-```rust
-struct Engineer {
-    focus: [
-        "Distributed Systems",
-        "Cryptography",
-        "Protocol Design",
-        "Bash",
-        "Python",
-        "Rust",
-        "Research Engineering",
-        "Open Source"
-    ],
-
-    currently_building: "Interesting Things™",
-
-    philosophy: "Elegant systems > complicated systems"
-}
